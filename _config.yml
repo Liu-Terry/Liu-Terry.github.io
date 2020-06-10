@@ -1,1 +1,16 @@
-theme: jekyll-theme-slate
+#Site setting
+title: 高维世界
+SEOTitle: 高维世界
+header-img:
+email: donkey328921@gmail.com
+description: 
+keyword:
+url:"https://Liu-Terry.github.io"
+baseurl:
+
+#Sidebar settings
+sidebar: true
+sidebar-about-description: "How long will i love you?"
+sidebar-avatar:
+
+#SNS settings
